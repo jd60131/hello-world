@@ -1,3 +1,4 @@
 # hello-world
 My first git repository
-I'm looking forward to learning more.
+Just getting started with git- I hope I don't screw up :)
+
